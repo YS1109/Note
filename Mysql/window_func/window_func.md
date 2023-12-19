@@ -259,7 +259,7 @@ FROM
 	video_play
 ```
 
-![10](./images/10.mp4)
+![10](./images/10.png)
 
 
 
